@@ -6,5 +6,5 @@
 - ⚡ A fun fact is that i'd learn much more about IA, and
 
 🐱‍👤 Constributions:
-![Contribuciones](https://img.shields.io/github/contributions/your-username/your-repository)
+![Contribuciones](https://img.shields.io/github/contributions/AxelUtrera/)
 

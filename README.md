@@ -5,6 +5,4 @@
 - 🌱 I’m currently learning about Kotlin and web development that's so interesting.
 - ⚡ A fun fact is that i'd learn much more about IA, and
 
-🐱‍👤 Constributions:
-![Contribuciones](https://img.shields.io/github/contributions/AxelUtrera/)
 
